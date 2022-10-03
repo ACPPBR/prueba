@@ -7,7 +7,7 @@ if ((window.FileList)) {
     console.log('La API FileList no está soportada');
     //return;
 }
-
+//SIUUUU
 
 const $inputArchivos = document.querySelector("#inputArchivos"),
     $btnEnviar = document.querySelector("#btnEnviar"),
@@ -41,6 +41,3 @@ $btnEnviar.addEventListener("click", async () => {
     $inputArchivos.value = null;
     $estado.textContent = "Archivos enviados";
 });
-
-
-// NO MANO
