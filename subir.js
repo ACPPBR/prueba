@@ -41,3 +41,5 @@ $btnEnviar.addEventListener("click", async () => {
     $inputArchivos.value = null;
     $estado.textContent = "Archivos enviados";
 });
+
+//Oscar gay
