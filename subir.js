@@ -45,3 +45,8 @@ $btnEnviar.addEventListener("click", async () => {
 
 
 // COMENTARIO AGREGADO
+
+let objeto = {
+    a: 10,
+    b: 20
+}
