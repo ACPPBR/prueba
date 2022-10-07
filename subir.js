@@ -50,3 +50,9 @@ let objeto = {
     a: 10,
     b: 20
 }
+
+
+let objetoDos = {
+    a: 10,
+    b: 20
+}
